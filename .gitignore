@@ -1,0 +1,9 @@
+# Files that will not be added and committed.
+
+.DS_Store
+*.log
+*.o
+*.a
+*~
+bin/
+live555/
